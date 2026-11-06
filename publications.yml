@@ -1,12 +1,12 @@
-- section: Selected Work
-  authors: "Liu, R.; Williams, N. T.; Rudolph, K. E.; D{\\'i}az, I."
+- section: Methodology
+  authors: "Liu, R.; Williams, N. T.; Rudolph, K. E.; Diaz, I."
   year: 2024
   title: General targeted machine learning for modern causal mediation analysis
   path: "https://arxiv.org/abs/2408.14620"
   journal: "arXiv preprint arXiv:2408.14620"
 
-- section: Selected Work
-  authors: "Vo, T.; Williams, N.; Liu, R.; Rudolph, K. E.; D{\\'i}az, I."
+- section: Methodology
+  authors: "Vo, T.; Williams, N.; Liu, R.; Rudolph, K. E.; Diaz, I."
   year: 2026
   title: "Recanting twins: Addressing intermediate confounding in mediation analysis"
   journal: Statistics in Medicine
@@ -14,7 +14,7 @@
   issue: 3--5
   pages: e70432
 
-- section: Selected Work
+- section: Collaboration
   authors: "Hano, C. E.; Liu, R.; Wu, W.; Anthopolos, R.; Bangalor, S.; Held, C.; Kullo, I."
   year: 2024
   title: Cardiometabolic Co-morbidity Burden and Circulating Biomarkers in Patients With Chronic Coronary Disease in the ISCHEMIA Trials
@@ -22,7 +22,7 @@
   volume: 225
   pages: 118--124
 
-- section: Selected Work
+- section: Collaboration
   authors: "Liu, R.; Abraham, R.; Cendorino, S.; Kanchi, R.; Blecker, S. B.; Dodson, J. A."
   year: 2026
   title: "COVID-19 Pandemic-induced Healthcare Disruption and Chronic Kidney Disease Progression: Liu et al."
@@ -31,8 +31,8 @@
   issue: 1
   pages: 134--142
 
-- section: Selected Work
-  authors: "Susmann, H. P.; Williams, N. T.; Liu, R.; Young, J. G.; D{\\'i}az, I."
+- section: Methodology
+  authors: "Susmann, H. P.; Williams, N. T.; Liu, R.; Young, J. G.; Diaz, I."
   year: 2026
   title: Computationally and statistically efficient estimation of time-smoothed counterfactual curves
   journal: Lifetime Data Analysis
@@ -40,7 +40,7 @@
   issue: 3
   pages: 48
 
-- section: Selected Work
+- section: Collaboration
   authors: "Andrews, R. M.; Mahaswade, V.; Maity, S.; Hung, A.; Liu, R.; Ross, R. K."
   year: 2026
   title: Variation in the quality of opioid use disorder treatment in the Medicaid population in 2019
@@ -49,8 +49,8 @@
   issue: 3
   pages: e0341739
 
-- section: Selected Work
-  authors: "Williams, N. T.; Liu, R.; Hoffman, K. L.; Forrest, S. E.; Rudolph, K. E.; D{\\'i}az, I."
+- section: Methodology
+  authors: "Williams, N. T.; Liu, R.; Hoffman, K. L.; Forrest, S. E.; Rudolph, K. E.; Diaz, I."
   year: 2025
   title: Two-stage targeted minimum-loss based estimation for non-negative two-part outcomes
   journal: Statistical Methods in Medical Research
@@ -58,7 +58,7 @@
   issue: 7
   pages: 1431--1441
 
-- section: Selected Work
+- section: Collaboration
   authors: "Muller, M.; Liu, R.; Hu, J.; Held, C.; Kullo, I.; McManus, B.; Newby, L. K.; Sidhu, M."
   year: 2024
   title: "Clonal Hematopoiesis of Indeterminate Potential (CHIP) in Chronic Coronary Artery Disease: A Report from the ISCHEMIA Trials Biorepository"
@@ -67,28 +67,28 @@
   issue: Suppl 1
   pages: A4124065--A4124065
 
-- section: Selected Work
+- section: Methodology
   authors: "Wu, W.; Li, F.; Liu, R.; Li, Y.; McAdams-DeMarco, M.; Geras, K.; Schaubel, D. E."
   year: 2023
   title: Leveraging Neural Networks to Profile Health Care Providers with Application to Medicare Claims
   path: "https://arxiv.org/abs/2309.15316"
   journal: "arXiv preprint arXiv:2309.15316"
 
-- section: Selected Work
-  authors: "Zhang, X.; Rudolph, K. E.; Pike, J. R.; Liu, R.; Santacatterina, M.; D{\\'i}az, I."
+- section: Methodology
+  authors: "Zhang, X.; Rudolph, K. E.; Pike, J. R.; Liu, R.; Santacatterina, M.; Diaz, I."
   year: 2026
   title: More efficient transportation of causal effects using mediators
   path: "https://arxiv.org/abs/2610.31568"
   journal: "arXiv preprint arXiv:2610.31568"
 
-- section: Selected Work
-  authors: "Liu, R.; Williams, N. T.; Rudolph, K. E.; D{\\'i}az, I."
+- section: Methodology
+  authors: "Liu, R.; Williams, N. T.; Rudolph, K. E.; Diaz, I."
   year: 2026
   title: "crumble: A comprehensive framework for modern causal mediation analysis with intermediate confounding"
   path: "https://arxiv.org/abs/2604.09902"
   journal: "arXiv preprint arXiv:2604.09902"
 
-- section: Selected Work
+- section: Collaboration
   authors: "Rajkumar, S.; Muller, M.; Pastourne-Haletou, P.; Liu, R.; Shah, F.; Hu, J.; Held, C."
   year: 2025
   title: Multi-omic Characterization of Clonal Hematopoiesis of Indeterminate Potential (CHIP) in the ISCHEMIA (International Study of Comparative Health Effectiveness with Medical and Invasive Approaches) Trial
@@ -97,7 +97,7 @@
   issue: Suppl 3
   pages: A4366483--A4366483
 
-- section: Selected Work
+- section: Collaboration
   authors: "Muller, M. A.; Liu, R.; Shah, F.; Hu, J.; Held, C.; Kuilo, B. M.; McManus, B.; Newby, L. K."
   year: 2025
   title: "Clonal Hematopoiesis of Indeterminate Potential in Chronic Coronary Disease: A Report From the ISCHEMIA Trials Biorepository"
@@ -106,7 +106,7 @@
   issue: 3
   pages: e004921
 
-- section: Selected Work
+- section: Collaboration
   authors: "Abraham, R.; Liu, R.; Cendorino, S.; Kanchi, R.; Blecker, S.; Dodson, J.; Thorpe, L."
   year: 2025
   title: "COVID-19 PANDEMIC-INDUCED HEALTHCARE DISRUPTION AND CHRONIC KIDNEY DISEASE PROGRESSION: A STUDY IN NEW YORK CITY"

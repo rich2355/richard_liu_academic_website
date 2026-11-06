@@ -32,7 +32,7 @@ hr.pub-divider {
 }
 
 .pub-title {
-  font-weight: 600;
+  font-weight: 400;
 }
 
 .pub-doi {
@@ -217,4 +217,3 @@ hr.pub-divider {
     align-items: flex-start;
   }
 }
-

@@ -34,6 +34,7 @@
   const itemInvitedPresentation = item["invitedpresentation"] || "";
   const itemHighlyCited         = item["highlycited"]         || 0;
   const itemHotPaper            = item["hotpaper"]            || 0;
+  const authorNames = String(item.authors || "").split(/;\s*/);
 
   const hasDoi      = !!(item.doi          && item.doi          !== "");
   const hasPdf      = !!(item.pdf          && item.pdf          !== "");
@@ -76,7 +77,12 @@
 
   <%/* ── LINE 1: Citation ───────────────────────────────────────── */%>
   <p class="pub-citation"><%
-    %><span class="pub-authors"><%- item.authors %></span>. <%
+    %><span class="pub-authors"><%
+    authorNames.forEach(function(author, index) {
+      if (author.trim() === "Liu, R.") { %><strong><%- author.trim() %></strong><%
+      } else { %><%- author.trim() %><% }
+      if (index < authorNames.length - 1) { %>; <% }
+    }); %></span>. <%
     if (item.year) { %><span class="pub-year"><%= item.year %></span>. <% } %><%
     if (item.path && item.path !== "") { %><a href="<%= item.path %>" class="pub-title"><%- item.title %></a><%
     } else { %><span class="pub-title"><%- item.title %></span><% } %>.<%
