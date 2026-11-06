@@ -12,7 +12,7 @@ listing:
     categories: numbered
     template: pub-listing.ejs
     include:
-      section: "Statistical Methodology"
+      section: "Methodology"
   - id: Collaboration
     contents: publications.yml
     type: custom
@@ -20,7 +20,7 @@ listing:
     categories: numbered
     template: pub-listing.ejs
     include:
-      section: "Collaborations"
+      section: "Collaboration"
 css: pub-listing.css
 filters: [remove-stray-divfence.lua]  # This filter is used to remove stray ":::" strings that leak into the HTML output when Quarto's listing wrapper fenced divs are interrupted by raw HTML blocks from the EJS template.
 ---

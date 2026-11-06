@@ -29,12 +29,10 @@ website:
         menu:        
         - text: Presentations
           href: posts.qmd#category=presentation                   
-          
+
     right: 
       - text: CV
-        href: files/nsf-biosketch.pdf
-      - icon: github
-        href: https://github.com/drganghe/quarto-academic-website-template
+        href: files/Richard_Liu_CV.pdf
   
   page-navigation: true
   

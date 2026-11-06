@@ -23,17 +23,23 @@ about:
 
 :::{#hero-heading}
 
-Thanks for stopping by! 
+Thanks for stopping by!
 
-I am Richard Liu and I am supervised by [Dr. Ivan Diaz](https://idiaz.xyz/) during my Ph.D. experience. I have also maintained working relationships with [Dr. Wenbo Wu](https://www.wenbowu.me/), [Dr. Michele Santacatterina](https://michelesantacatterina.github.io/), and [Dr. Alex Luedtke](https://alexluedtke.com/). 
+I’m Richard Liu, a Ph.D. trainee at NYU Grossman School of Medicine, where I’m supervised by [Dr. Ivan Diaz](https://idiaz.xyz/). I also collaborate with other researchers including [Dr. Wenbo Wu](https://www.wenbowu.me/), [Dr. Michele Santacatterina](https://michelesantacatterina.github.io/), and [Dr. Alex Luedtke](https://alexluedtke.com/).
 
-My research work has been focusing on causal machine learning, semiparametric theories, mediation analysis, and causal inference with time-varying treatment/outcome. I am generally interested in developing/applying modern statistical methodologoies such that they can be useful in other fields related to public health or medicine. 
+I’m interested in developing and applying modern statistical methods to questions in public health and medicine. My research focuses on causal machine learning, semiparametric theory, mediation analysis, and causal inference with time-varying treatments and outcomes. I’ve also worked on projects involving transportability, causal fairness, and applications of large language models (LLMs) to causal inference.
 
-Please feel free to reach out for any potential collaborations! 
+Outside of research, I enjoy cooking, exercising, including fitness training and archery, and playing card and video games.
+
+Please feel free to reach out if you’re interested in collaborating!
 
 ## Education
 
 - PhD, NYU Grossman School of Medicine, Expected 2027
+
+## Experience
+
+- Ph.D. Statistics Intern, Eli Lilly and Company, 05/2026-08/2026
 
 :::
 
