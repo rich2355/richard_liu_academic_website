@@ -15,15 +15,24 @@
 <link>https://drganghe.github.io/quarto-academic-website-template/posts.html</link>
 </image>
 <generator>quarto-1.7.32</generator>
-<lastBuildDate>Tue, 15 Oct 2024 04:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 01 May 2026 04:00:00 GMT</lastBuildDate>
 <item>
-  <title>Quarto Academic Website Examples and Tips</title>
+  <title>NESS 2026 Best Student Paper Award</title>
   <link>https://drganghe.github.io/quarto-academic-website-template/</link>
-  <description>Examples and tips for Quarto Academic Website</description>
+  <description>I have been awarded the Best Student Paper Award at the 2026 NESS Symposium for my paper on &#39;General Targeted Machine Learning in Modern Causal Mediation Analysis&#39;.</description>
   <category>news</category>
   <guid>https://drganghe.github.io/quarto-academic-website-template/</guid>
-  <pubDate>Tue, 15 Oct 2024 04:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/quarto-academic-website-template/files/images/placeholder1.jpg" medium="image" type="image/jpeg"/>
+  <pubDate>Fri, 01 May 2026 04:00:00 GMT</pubDate>
+  <media:content url="https://drganghe.github.io/quarto-academic-website-template/files/images/NESS.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Deming Conference 2026 Best Student Poster Award</title>
+  <link>https://drganghe.github.io/quarto-academic-website-template/</link>
+  <description>I have been awarded the Best Student Poster Award at the 2026 Deming Conference on Applied Statistics, for my poster on &#39;General Targeted Machine Learning in Modern Causal Mediation Analysis&#39;.</description>
+  <category>news</category>
+  <guid>https://drganghe.github.io/quarto-academic-website-template/</guid>
+  <pubDate>Mon, 01 Dec 2025 05:00:00 GMT</pubDate>
+  <media:content url="https://drganghe.github.io/quarto-academic-website-template/files/images/Deming.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Event item</title>

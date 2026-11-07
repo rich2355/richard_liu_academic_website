@@ -1,9 +1,14 @@
 
-    - path: https://drganghe.github.io/quarto-academic-site-examples.html
-      image: "/files/images/placeholder1.jpg"
-      title: "Quarto Academic Website Examples and Tips"
-      author: "Dr. Gang He"
-      description: "Examples and tips for Quarto Academic Website"
-      date: "2024-10-15"
+    - path: https://symposium.nestat.org/awards.html
+      image: "/files/images/NESS.jpg"
+      title: "NESS 2026 Best Student Paper Award"
+      description: "I have been awarded the Best Student Paper Award at the 2026 NESS Symposium for my paper on 'General Targeted Machine Learning in Modern Causal Mediation Analysis'."
+      date: "2026-05"
       categories: [news] 
 
+    - path: https://www.deming-conference.org/
+      image: "/files/images/Deming.jpg"
+      title: "Deming Conference 2026 Best Student Poster Award"
+      description: "I have been awarded the Best Student Poster Award at the 2026 Deming Conference on Applied Statistics, for my poster on 'General Targeted Machine Learning in Modern Causal Mediation Analysis'."
+      date: "2025-12"
+      categories: [news] 
