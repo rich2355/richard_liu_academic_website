@@ -1,11 +1,4 @@
 - section: Methodology
-  authors: "Liu, R.; Williams, N. T.; Rudolph, K. E.; Diaz, I."
-  year: 2024
-  title: General targeted machine learning for modern causal mediation analysis
-  path: "https://arxiv.org/abs/2408.14620"
-  journal: "arXiv preprint arXiv:2408.14620"
-
-- section: Methodology
   authors: "Vo, T.; Williams, N.; Liu, R.; Rudolph, K. E.; Diaz, I."
   year: 2026
   title: "Recanting twins: Addressing intermediate confounding in mediation analysis"
@@ -14,15 +7,6 @@
   volume: 45
   issue: 3--5
   pages: e70432
-
-- section: Collaboration
-  authors: "Hano, C. E.; Liu, R.; Wu, W.; Anthopolos, R.; Bangalor, S.; Held, C.; Kullo, I."
-  year: 2024
-  title: Cardiometabolic Co-morbidity Burden and Circulating Biomarkers in Patients With Chronic Coronary Disease in the ISCHEMIA Trials
-  path: "https://doi.org/10.1016/j.amjcard.2024.05.033"
-  journal: The American Journal of Cardiology
-  volume: 225
-  pages: 118--124
 
 - section: Collaboration
   authors: "Liu, R.; Abraham, R.; Cendorino, S.; Kanchi, R.; Blecker, S. B.; Dodson, J. A."
@@ -55,33 +39,6 @@
   pages: e0341739
 
 - section: Methodology
-  authors: "Williams, N. T.; Liu, R.; Hoffman, K. L.; Forrest, S. E.; Rudolph, K. E.; Diaz, I."
-  year: 2025
-  title: Two-stage targeted minimum-loss based estimation for non-negative two-part outcomes
-  path: "https://doi.org/10.1177/09622802251340245"
-  journal: Statistical Methods in Medical Research
-  volume: 34
-  issue: 7
-  pages: 1431--1441
-
-- section: Collaboration
-  authors: "Muller, M.; Liu, R.; Hu, J.; Held, C.; Kullo, I.; McManus, B.; Newby, L. K.; Sidhu, M."
-  year: 2024
-  title: "Clonal Hematopoiesis of Indeterminate Potential (CHIP) in Chronic Coronary Artery Disease: A Report from the ISCHEMIA Trials Biorepository"
-  path: "https://doi.org/10.1161/circ.150.suppl_1.4124065"
-  journal: Circulation
-  volume: 150
-  issue: Suppl 1
-  pages: A4124065--A4124065
-
-- section: Methodology
-  authors: "Wu, W.; Li, F.; Liu, R.; Li, Y.; McAdams-DeMarco, M.; Geras, K.; Schaubel, D. E."
-  year: 2023
-  title: Leveraging Neural Networks to Profile Health Care Providers with Application to Medicare Claims
-  path: "https://arxiv.org/abs/2309.15316"
-  journal: "arXiv preprint arXiv:2309.15316"
-
-- section: Methodology
   authors: "Zhang, X.; Rudolph, K. E.; Pike, J. R.; Liu, R.; Santacatterina, M.; Diaz, I."
   year: 2026
   title: More efficient transportation of causal effects using mediators
@@ -94,6 +51,16 @@
   title: "crumble: A comprehensive framework for modern causal mediation analysis with intermediate confounding"
   path: "https://arxiv.org/abs/2604.09902"
   journal: "arXiv preprint arXiv:2604.09902"
+
+- section: Methodology
+  authors: "Williams, N. T.; Liu, R.; Hoffman, K. L.; Forrest, S. E.; Rudolph, K. E.; Diaz, I."
+  year: 2025
+  title: Two-stage targeted minimum-loss based estimation for non-negative two-part outcomes
+  path: "https://doi.org/10.1177/09622802251340245"
+  journal: Statistical Methods in Medical Research
+  volume: 34
+  issue: 7
+  pages: 1431--1441
 
 - section: Collaboration
   authors: "Rajkumar, S.; Muller, M.; Pastourne-Haletou, P.; Liu, R.; Shah, F.; Hu, J.; Held, C."
@@ -144,6 +111,32 @@
   issue: 1
   pages: 104575
 
+- section: Methodology
+  authors: "Liu, R.; Williams, N. T.; Rudolph, K. E.; Diaz, I."
+  year: 2024
+  title: General targeted machine learning for modern causal mediation analysis
+  path: "https://arxiv.org/abs/2408.14620"
+  journal: "arXiv preprint arXiv:2408.14620"
+
+- section: Collaboration
+  authors: "Hano, C. E.; Liu, R.; Wu, W.; Anthopolos, R.; Bangalor, S.; Held, C.; Kullo, I."
+  year: 2024
+  title: Cardiometabolic Co-morbidity Burden and Circulating Biomarkers in Patients With Chronic Coronary Disease in the ISCHEMIA Trials
+  path: "https://doi.org/10.1016/j.amjcard.2024.05.033"
+  journal: The American Journal of Cardiology
+  volume: 225
+  pages: 118--124
+
+- section: Collaboration
+  authors: "Muller, M.; Liu, R.; Hu, J.; Held, C.; Kullo, I.; McManus, B.; Newby, L. K.; Sidhu, M."
+  year: 2024
+  title: "Clonal Hematopoiesis of Indeterminate Potential (CHIP) in Chronic Coronary Artery Disease: A Report from the ISCHEMIA Trials Biorepository"
+  path: "https://doi.org/10.1161/circ.150.suppl_1.4124065"
+  journal: Circulation
+  volume: 150
+  issue: Suppl 1
+  pages: A4124065--A4124065
+
 - section: Collaboration
   authors: "Hamo, C.; Newman, J. D.; Liu, R.; Wu, W.; Anthopolos, R.; Bangalore, S.; Held, C.; et al."
   year: 2024
@@ -153,3 +146,10 @@
   volume: 83
   issue: 13_Supplement
   pages: 1901--1901
+
+- section: Methodology
+  authors: "Wu, W.; Li, F.; Liu, R.; Li, Y.; McAdams-DeMarco, M.; Geras, K.; Schaubel, D. E."
+  year: 2023
+  title: Leveraging Neural Networks to Profile Health Care Providers with Application to Medicare Claims
+  path: "https://arxiv.org/abs/2309.15316"
+  journal: "arXiv preprint arXiv:2309.15316"
