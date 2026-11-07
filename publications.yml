@@ -9,6 +9,7 @@
   authors: "Vo, T.; Williams, N.; Liu, R.; Rudolph, K. E.; Diaz, I."
   year: 2026
   title: "Recanting twins: Addressing intermediate confounding in mediation analysis"
+  path: "https://doi.org/10.1002/sim.70432"
   journal: Statistics in Medicine
   volume: 45
   issue: 3--5
@@ -18,6 +19,7 @@
   authors: "Hano, C. E.; Liu, R.; Wu, W.; Anthopolos, R.; Bangalor, S.; Held, C.; Kullo, I."
   year: 2024
   title: Cardiometabolic Co-morbidity Burden and Circulating Biomarkers in Patients With Chronic Coronary Disease in the ISCHEMIA Trials
+  path: "https://doi.org/10.1016/j.amjcard.2024.05.033"
   journal: The American Journal of Cardiology
   volume: 225
   pages: 118--124
@@ -26,6 +28,7 @@
   authors: "Liu, R.; Abraham, R.; Cendorino, S.; Kanchi, R.; Blecker, S. B.; Dodson, J. A."
   year: 2026
   title: "COVID-19 Pandemic-induced Healthcare Disruption and Chronic Kidney Disease Progression: Liu et al."
+  path: "https://doi.org/10.1007/s11606-025-09832-9"
   journal: Journal of General Internal Medicine
   volume: 41
   issue: 1
@@ -35,6 +38,7 @@
   authors: "Susmann, H. P.; Williams, N. T.; Liu, R.; Young, J. G.; Diaz, I."
   year: 2026
   title: Computationally and statistically efficient estimation of time-smoothed counterfactual curves
+  path: "https://doi.org/10.1007/s10985-026-09727-9"
   journal: Lifetime Data Analysis
   volume: 32
   issue: 3
@@ -44,6 +48,7 @@
   authors: "Andrews, R. M.; Mahaswade, V.; Maity, S.; Hung, A.; Liu, R.; Ross, R. K."
   year: 2026
   title: Variation in the quality of opioid use disorder treatment in the Medicaid population in 2019
+  path: "https://doi.org/10.1371/journal.pone.0341739"
   journal: PLOS ONE
   volume: 21
   issue: 3
@@ -53,6 +58,7 @@
   authors: "Williams, N. T.; Liu, R.; Hoffman, K. L.; Forrest, S. E.; Rudolph, K. E.; Diaz, I."
   year: 2025
   title: Two-stage targeted minimum-loss based estimation for non-negative two-part outcomes
+  path: "https://doi.org/10.1177/09622802251340245"
   journal: Statistical Methods in Medical Research
   volume: 34
   issue: 7
@@ -62,6 +68,7 @@
   authors: "Muller, M.; Liu, R.; Hu, J.; Held, C.; Kullo, I.; McManus, B.; Newby, L. K.; Sidhu, M."
   year: 2024
   title: "Clonal Hematopoiesis of Indeterminate Potential (CHIP) in Chronic Coronary Artery Disease: A Report from the ISCHEMIA Trials Biorepository"
+  path: "https://doi.org/10.1161/circ.150.suppl_1.4124065"
   journal: Circulation
   volume: 150
   issue: Suppl 1
@@ -92,6 +99,7 @@
   authors: "Rajkumar, S.; Muller, M.; Pastourne-Haletou, P.; Liu, R.; Shah, F.; Hu, J.; Held, C."
   year: 2025
   title: Multi-omic Characterization of Clonal Hematopoiesis of Indeterminate Potential (CHIP) in the ISCHEMIA (International Study of Comparative Health Effectiveness with Medical and Invasive Approaches) Trial
+  path: "https://doi.org/10.1161/circ.152.suppl_3.4366483"
   journal: Circulation
   volume: 152
   issue: Suppl 3
@@ -101,6 +109,7 @@
   authors: "Muller, M. A.; Liu, R.; Shah, F.; Hu, J.; Held, C.; Kuilo, B. M.; McManus, B.; Newby, L. K."
   year: 2025
   title: "Clonal Hematopoiesis of Indeterminate Potential in Chronic Coronary Disease: A Report From the ISCHEMIA Trials Biorepository"
+  path: "https://doi.org/10.1161/CIRCGEN.124.004921"
   journal: "Circulation: Genomic and Precision Medicine"
   volume: 18
   issue: 3
@@ -110,6 +119,7 @@
   authors: "Abraham, R.; Liu, R.; Cendorino, S.; Kanchi, R.; Blecker, S.; Dodson, J.; Thorpe, L."
   year: 2025
   title: "COVID-19 PANDEMIC-INDUCED HEALTHCARE DISRUPTION AND CHRONIC KIDNEY DISEASE PROGRESSION: A STUDY IN NEW YORK CITY"
+  path: "https://scholar.google.com/scholar?q=%22COVID-19+Pandemic-Induced+Healthcare+Disruption+and+Chronic+Kidney+Disease+Progression%3A+A+Study+in+New+York+City%22"
   journal: American Journal of Kidney Diseases
   volume: 85
   issue: 4
@@ -118,6 +128,7 @@
   authors: "Ahmed, H.; Sidhu, M. S.; Mathew, R.; Wu, W.; Alexander, K. P.; Xu, Y.; et al."
   year: 2025
   title: "HIGH BLEEDING RISK AND CARDIOVASCULAR OUTCOMES: SECONDARY ANALYSIS OF THE ISCHEMIA TRIALS"
+  path: "https://doi.org/10.1016/S0735-1097(25)02399-X"
   journal: Journal of the American College of Cardiology
   volume: 85
   issue: 12_Supplement
@@ -127,6 +138,7 @@
   authors: "Khan, N. S.; Dhanda, A. K.; Takashima, M.; Liu, R.; Yoshiyasu, Y.; Wu, W.; Jin, W.; et al."
   year: 2025
   title: What is the robustness of randomized controlled trials supporting rhinosinusitis guidelines?
+  path: "https://doi.org/10.1016/j.amjoto.2024.104575"
   journal: American Journal of Otolaryngology
   volume: 46
   issue: 1
@@ -136,6 +148,7 @@
   authors: "Hamo, C.; Newman, J. D.; Liu, R.; Wu, W.; Anthopolos, R.; Bangalore, S.; Held, C.; et al."
   year: 2024
   title: CARDIOMETABOLIC RISK FACTOR BURDEN AND CIRCULATING BIOMARKERS IN PATIENTS WITH CHRONIC CORONARY DISEASE IN THE ISCHEMIA TRIALS
+  path: "https://doi.org/10.1016/S0735-1097(24)03891-9"
   journal: Journal of the American College of Cardiology
   volume: 83
   issue: 13_Supplement

@@ -19,20 +19,18 @@ website:
     left:   # You can comment out all navigation items here if you just like to keep the index page only
 #      - text: Home
 #        href: index.qmd
-      - text: News
-        href: posts.qmd#category=news
+      - text: News&Presentations
+        href: posts.qmd
         
       - text: Publications
         href: pub-listing.qmd
                               
-      - text: Outreach
-        menu:        
-        - text: Presentations
-          href: posts.qmd#category=presentation                   
+   #   - text: Presentations
+   #     href: posts.qmd#category=presentation                   
 
-    right: 
-      - text: CV
-        href: files/Richard_CV.pdf
+    # right: 
+    #   - text: CV
+    #     href: files/Richard_CV.pdf
   
   page-navigation: true
   

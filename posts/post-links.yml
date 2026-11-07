@@ -1,14 +1,60 @@
 
+    - path: ""
+      title: "2026 Special MacCracken Award"
+      description: "I am honored to be a recipient of the 2026 Special MacCracken Award at NYU Langone. The award recognizes students for qualities including scholastic achievement, an inclusive spirit, professionalism, leadership, and contributions to recruitment."
+      date: "2026-08"
+      categories: [News]
+
     - path: https://symposium.nestat.org/awards.html
       image: "/files/images/NESS.jpg"
       title: "NESS 2026 Best Student Paper Award"
       description: "I have been awarded the Best Student Paper Award at the 2026 NESS Symposium for my paper on 'General Targeted Machine Learning in Modern Causal Mediation Analysis'."
       date: "2026-05"
-      categories: [news] 
+      categories: [News] 
 
     - path: https://www.deming-conference.org/
       image: "/files/images/Deming.jpg"
       title: "Deming Conference 2026 Best Student Poster Award"
       description: "I have been awarded the Best Student Poster Award at the 2026 Deming Conference on Applied Statistics, for my poster on 'General Targeted Machine Learning in Modern Causal Mediation Analysis'."
       date: "2025-12"
-      categories: [news] 
+      categories: [News] 
+
+    - path: "/files/SLDS_2026.pdf"
+      image: "/files/images/SLDS.jpg"
+      title: "Presentation at SLDS 2026"
+      description: "Presented “General targeted machine learning for modern causal mediation analysis” in New York City, New York, USA."
+      date: "2026-11"
+      categories: [Presentations]
+
+    - path: "/files/ACIC_2026.pdf"
+      image: "/files/images/SCI.jpg"
+      title: "Presentation at ACIC 2026"
+      description: "Organized the session “An Overview of Automatic Non-parametric (Riesz) Learning for Causal Effects Estimation” in Salt Lake City, Utah, USA. Presented “General targeted machine learning for modern causal mediation analysis” in Salt Lake City, Utah, USA."
+      date: "2026-05"
+      categories: [Presentations]
+
+    - path: "/files/NYU_Langone_poster.pdf"
+      image: "/files/images/SCI.jpg"
+      title: "Poster at ACIC 2025"
+      description: "Presented the poster “General targeted machine learning for modern causal mediation analysis” in Detroit, Michigan, USA."
+      date: "2025-05"
+      categories: [Presentations]
+
+    - path: ""
+      title: "Poster at the NYU Langone Health Annual Poster Competition (Poster not available)"
+      description: "Presented the poster “Time-efficient Estimation of Longitudinal Effects” at the Department of Population Health, NYU Langone Health."
+      date: "2026-04"
+      categories: [Presentations]
+
+    - path: "/files/NYU_Langone_poster.pdf"
+      title: "Poster at the NYU Langone Health Annual Poster Competition"
+      description: "Presented the poster “General targeted machine learning for modern causal mediation analysis” at the Department of Population Health, NYU Langone Health."
+      date: "2025-04"
+      categories: [Presentations]
+
+    - path: ""
+      image: "/files/images/ICSA.jpg"
+      title: "Session Chair at 2024 ICSA Applied Statistics Symposium"
+      description: "Chaired the session “Statistical Advances for Complex Event History Data” in Nashville, Tennessee, USA."
+      date: "2024-05"
+      categories: [Other Conference Services]

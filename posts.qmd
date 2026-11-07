@@ -1,6 +1,6 @@
 ---
-title: "What’s New & Updated"
-subtitle: "Posts about papers, events, news, and more"
+title: "News"
+subtitle: "Posts about papers, events, news, and more (Some, but not all, items have accessible sources or files)"
 description-meta: "Posts about papers, events, news, and more"
 listing: 
   sort: "date desc"
@@ -11,7 +11,7 @@ listing:
   filter-ui: true
   feed: true
   contents: 
-      - posts
+ #     - posts
       - posts/post-links.yml  # Use this file to add external links
 #      categories: [] 
 
